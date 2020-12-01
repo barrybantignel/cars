@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1.styled {
+  color: red;
+  text-transform: uppercase;
+}
+
+carsTable th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: rgb(24, 99, 160);
+  color: white;
+}
